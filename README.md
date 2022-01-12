@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shaishav-Kr
+- 👀 I’m interested in programming, music, drawing and travelling
+- 🌱 I’m currently learning basic to intermediate programming
+- 💞️ I’m looking to collaborate on beginners projects
+- 📫 How to reach me : on my mail : shaishavpatna2@gmail.com
