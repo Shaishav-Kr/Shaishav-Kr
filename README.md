@@ -20,4 +20,3 @@ I’m a software engineer with hands-on experience in software development, LLM 
 - Email: shaishav.kr.singh@gmail.com  
 - LinkedIn: [linkedin.com/in/shaishav2000](https://www.linkedin.com/in/shaishav2000)  
 - GitHub: [github.com/Shaishav-Kr](https://github.com/Shaishav-Kr)  
-- Portfolio: [spurzeetechnologies.in](https://spurzeetechnologies.in)  
